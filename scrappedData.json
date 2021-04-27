@@ -1,0 +1,26 @@
+[
+  {
+    "MCC": 289,
+    "MNC": 68,
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": 7,
+    "Network": "A-Mobile"
+  },
+  {
+    "MCC": 289,
+    "MNC": 68,
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": 7,
+    "Network": "A-Mobile"
+  },
+  {
+    "MCC": 412,
+    "MNC": 88,
+    "ISO": "af",
+    "Country": "Afghanistan",
+    "Country Code": 7,
+    "Network": "Afghan Telecom Corp. (AT)"
+  }
+]
